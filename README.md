@@ -1,15 +1,22 @@
-##👋 Hi, I'm Joshua Emmanuel!
+# 👋 Hi, I'm Emmanuel Joshua Agbo!
 
-I'm a passionate Frontend Developer and Computer Science student at Bayero University, Kano. I specialize in building simple, responsive, and user-friendly web interfaces using HTML, CSS, and JavaScript. I'm also exploring the world of UI/UX with Figma and actively growing my skills through self-learning and hands-on projects.
+## 🧑‍💻 About Me
 
-💡 During my internships at 360 Mass Hub and Prodigy InfoTech, I mentored others in web development, assisted in teaching junior learners, and contributed to real-world projects — including some volunteered roles — that sharpened both my technical and soft skills.
+I'm a passionate Frontend Developer and a final year Computer Science student at Bayero University, Kano.
 
-🛠️ Skills & Tools:
-HTML · CSS · JavaScript · Figma (beginner) · Git & GitHub · Communication · Teamwork
+### 🔧 Skills & Tools
+- HTML, CSS, JavaScript, React(Beginner)
+- Git & GitHub
+- Figma (UI/UX beginner)
+- Teamwork & Communication
 
-🌱 I'm currently learning more about modern frameworks and improving my frontend development knowledge at AltSchool Africa.
+## 🌱 Currently Learning
+Exploring modern frontend frameworks and improving my web development skills at AltSchool Africa.
 
-📁 I’m working on my personal portfolio and looking for opportunities to collaborate, learn, and grow as a developer.
+## 🤝 Let's Connect
+Looking for opportunities to grow and collaborate!
+- LinkedIn:
+- Gmail: emmanuelagbo348@gmail.com
+- WhatsApp: https://wa.me/+2349024834067
 
-Let’s connect and build something impactful!
-
+*“Every click, every line of code, every challenge - it’s all part of the journey. Glad you were here!*

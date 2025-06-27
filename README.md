@@ -15,7 +15,7 @@ Exploring modern frontend frameworks and improving my web development skills at 
 
 ## 🤝 Let's Connect
 Looking for opportunities to grow and collaborate!
-- LinkedIn:
+- LinkedIn: www.linkedin.com/in/joshua-agbo-dev
 - Gmail: emmanuelagbo348@gmail.com
 - WhatsApp: https://wa.me/+2349024834067
 

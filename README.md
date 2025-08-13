@@ -11,7 +11,7 @@ I'm a passionate Frontend Developer and a final year Computer Science student at
 - Teamwork & Communication
 
 ## 🌱 Currently Learning
-Exploring modern frontend frameworks and improving my web development skills at AltSchool Africa.
+Exploring modern frontend frameworks and improving my web development skills at Self Learning.
 
 ## 🤝 Let's Connect
 Looking for opportunities to grow and collaborate!
